@@ -25,6 +25,6 @@ I'm a data enthusiast with a passion for transforming raw information into actio
 Currently completing a **Data Analytics course** at Turing College, where I’m honing my skills in SQL, Python, statistics, and data visualization. Previously, I worked in the creative field, bringing visual storytelling and data-driven decision-making together.
 
 ### 💬 Let’s Connect
-- [LinkedIn](www.linkedin.com/in/augustas-eskertas)
+- [LinkedIn](https://www.linkedin.com/in/augustas-eskertas)
 
-Feel free to check out my repositories, contribute to open-source projects, or just say hi! 😄
+Feel free to check out my repositories or just say hi! 😄
